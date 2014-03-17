@@ -1,0 +1,7 @@
+Hi guys,
+
+This is our git repo. Shailin, please read up a little bit about git and what it does.
+
+Please ask me once before you commit, because I have messed up the repo in the past sem by making wrong commits :p
+
+Cheers
